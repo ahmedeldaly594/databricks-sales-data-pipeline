@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local IDE
+.vscode/
+.idea/
+
+# Databricks export
+*.dbc
